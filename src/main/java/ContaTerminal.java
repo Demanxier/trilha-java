@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        //TODO: https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
+        // https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite o numero da CONTA: ");
